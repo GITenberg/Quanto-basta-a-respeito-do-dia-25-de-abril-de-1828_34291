@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36941'
     url: http://www.gutenberg.org/2009/agents/36941
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34291#Quanto-basta-a-respeito-do-dia-25-de-abril-de-1828
 gutenberg_issued: '2010-11-12'
 gutenberg_type: Text
 identifiers:
