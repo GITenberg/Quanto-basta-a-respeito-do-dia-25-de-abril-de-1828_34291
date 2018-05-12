@@ -1,0 +1,26 @@
+_repo: Quanto-basta-a-respeito-do-dia-25-de-abril-de-1828_34291
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Costa, Manuel Cipriano da
+    deathdate: 1834
+    gutenberg_agent_id: '36941'
+    url: http://www.gutenberg.org/2009/agents/36941
+description: ''
+gutenberg_issued: '2010-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34291'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portugal -- History -- Miguel I, 1828-1834'
+- !lcc 'DP'
+- !lcsh 'Portugal -- History -- 1826-1853'
+title: Quanto basta a respeito do dia 25 de abril de 1828
+url: http://www.gutenberg.org/ebooks/34291
